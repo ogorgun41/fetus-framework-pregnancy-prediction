@@ -23,9 +23,7 @@ This project builds a multimodal machine learning pipeline that predicts pregnan
   Final Colab notebook with preprocessing, training, evaluation, Grad-CAM, and SHAP
 * `Predicting Pregnancy Status Using the Dataset for Fetus Framework.pdf`  
   Final report (PDF) with methods, figures, results, and APA references
-* `Dataset for Fetus Framework.zip`  
-  Original dataset with ultrasound images and clinical variables
-
+  
 ---
 
 ## Data Sources
