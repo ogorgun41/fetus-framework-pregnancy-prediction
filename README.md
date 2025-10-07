@@ -1,6 +1,6 @@
 # Predicting Pregnancy Status Using the Dataset for Fetus Framework
 
-This project builds a multimodal machine learning pipeline that predicts pregnancy status using ultrasound images together with clinical tabular data. The workflow covers careful image preprocessing, balanced training, model comparison for both data types, late fusion of predictions, and clear explanations with SHAP and Grad-CAM.
+This project builds a multimodal machine learning pipeline that predicts pregnancy status using ultrasound images together with clinical tabular data. The workflow comprises image preprocessing, balanced training, model comparison for both data types, late fusion of predictions, and clear explanations with SHAP and Grad-CAM.
 
 ---
 
@@ -56,3 +56,4 @@ M.S. in Data Science | M.S. in Business Analytics | B.S. in Economics
 ## Notes
 
 This project shows practical experience in combining medical images with clinical data, training models that are accurate and interpretable, and presenting results that support real-world decision making.
+Through using ensemble modeling, deep learning, and medical imaging, the findings can be improved to detect and classify cases in the domains of Recurrent Implantation Failure (RIF), Recurrent Pregnancy Loss (RPL), both, or none (normal). 
